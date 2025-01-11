@@ -3,6 +3,7 @@ A Responsive E-Commerce Gaming Website Project With HTML CSS JavaScript
 
 Project Link: (https://revson118.github.io/GameX/)
 
-![image](https://github.com/user-attachments/assets/433bf63d-dbe0-4663-9083-4204eb4cf298)
+![image](https://github.com/user-attachments/assets/4fca32c3-0293-475d-b2e1-9531c9fcae0d)
 
-![image](https://github.com/user-attachments/assets/12167a52-6e6d-4322-bf14-abd758d42a87)
+![image](https://github.com/user-attachments/assets/04164637-1f43-47ec-9336-8670605380b9)
+
